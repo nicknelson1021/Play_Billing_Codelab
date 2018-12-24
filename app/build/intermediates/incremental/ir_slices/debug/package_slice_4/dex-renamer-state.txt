@@ -1,0 +1,4 @@
+#Mon Dec 24 10:25:06 CST 2018
+base.0=C\:\\Users\\theda\\StudioProjects\\play-billing-codelab-master\\work\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
